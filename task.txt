@@ -1,0 +1,6 @@
+This Task is given by Dr.A Panchal sir.
+Problem:
+	There is some experimental data of a solar cell equation(20-25).
+	I have to calculate the 5 constants of the equation.
+Solution:
+	Genetic Algorithm.
